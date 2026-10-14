@@ -1,0 +1,7 @@
+{
+  "name": "Multiservicios RC",
+  "description": "Plataforma integral de Multiservicios RC para gestión de servicios técnicos, agendamiento de mantenimiento preventivo de climatización y panel de administración en tiempo real con notificaciones automáticas vía WhatsApp (3517962450).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
